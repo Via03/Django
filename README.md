@@ -4,4 +4,4 @@ activity 1
 <img width="1920" height="1080" alt="Screenshot 2026-02-02 185255" src="https://github.com/user-attachments/assets/916eb3d4-2747-4ed2-8ec0-f1d8042c022c" />
 
 activity 2
-https://drive.google.com/file/d/1jQ21avDKO2TSbXn7AEjOmm5moWaxRrWD/view?usp=drive_link
+https://drive.google.com/file/d/1ZiTsgffbgCw9aWFxJYIW50GkahnyzfXq/view?usp=sharing
